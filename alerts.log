@@ -1,0 +1,5 @@
+[ALERT] 2026-05-01T04:52:47 | Suspicious traffic detected: DoS Hulk | SRC: 192.168.226.87 → DST: 10.0.170.249:443 | Severity: HIGH
+[ALERT] 2026-05-01T04:52:47 | Suspicious traffic detected: PortScan | SRC: 192.168.44.116 → DST: 10.0.133.237:22 | Severity: HIGH
+[ALERT] 2026-05-01T04:52:48 | Suspicious traffic detected: DDoS | SRC: 192.168.188.207 → DST: 10.0.121.204:443 | Severity: HIGH
+[ALERT] 2026-05-01T04:52:48 | Suspicious traffic detected: DDoS | SRC: 192.168.188.14 → DST: 10.0.140.18:443 | Severity: HIGH
+[ALERT] 2026-05-01T04:52:48 | Suspicious traffic detected: DDoS | SRC: 192.168.216.141 → DST: 10.0.9.64:22 | Severity: HIGH
